@@ -21,7 +21,7 @@ List<Map> drawerItems=[
   },
   {
     'icon': Icons.sell,
-    'title' : 'Advertissements'
+    'title' : 'Advertisements'
   },
   // {
   //   'icon': FontAwesomeIcons.plus,
